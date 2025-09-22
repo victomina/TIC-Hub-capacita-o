@@ -8,7 +8,8 @@
 
 ## Capítulo 2: Estrutura de dados elementares
 
-- Vetores e matrizes
+
+### Vetores e matrizes
 
 ![Vetores e matrizes em estruturas de dados](imagens/vetores%20e%20matrizes.png)
 
@@ -29,3 +30,6 @@ Maneiras de resolver este problema:
 ![Busca binária](imagens/BuscandoElemento_buscabinaria.png)
 
 
+- Inserção e remoção de elementos
+
+### Ponteiros, registros e Listas encadeadas
