@@ -50,3 +50,33 @@ Maneiras de resolver este problema:
 
 ![Tipos de listas em Python](imagens/Metodos%20Comuns%20de%20lista%20em%20Python.png)
 
+- Aplicacoes de listas em Java
+
+![Aplicacoes de listas em Java](imagens/Aplicacoes%20de%20lsitas%20em%20Java.png)
+
+- Aplicações de Lista usando Java
+
+```java
+public class Estoque{
+
+    private ArrayList<Produto> produtos;
+
+    public Estoque(){
+        produtos = new ArrayList<>();
+    }
+
+    public void adicionarProduto(Produto produto){
+        produtos.add(produto);
+    } 
+    
+    public void removerProduto(String nome){
+        produtos.removeIf(produto --> produto.getNome().equals(nome));
+    }
+
+    public void listarProdutos(){
+        for(Produto produto : produtos){
+            System.out.println(produto);
+        }
+    }
+}
+```
