@@ -33,3 +33,20 @@ Maneiras de resolver este problema:
 - Inserção e remoção de elementos
 
 ### Ponteiros, registros e Listas encadeadas
+
+- Ponteiro: armazena o endereço de outra variável
+
+## Capítulo 3: Listas, pilhas e filas
+
+> A Lista pode ser representada como um vetor ou umas lista de elementos sequenciados
+
+> A lista é uma estrutura de dados homogênea ou heterogêna
+
+- Operações com listas em Java
+
+![Operações com listas em Java](imagens/Operações%20de%20lista%20em%20Java.png)
+
+- Tipos de operções de listas em Python
+
+![Tipos de listas em Python](imagens/Metodos%20Comuns%20de%20lista%20em%20Python.png)
+
