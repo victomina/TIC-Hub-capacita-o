@@ -11,3 +11,21 @@
 - Vetores e matrizes
 
 ![Vetores e matrizes em estruturas de dados](imagens/vetores%20e%20matrizes.png)
+
+problemas de alocação de memória
+
+Maneiras de resolver este problema: 
+
+* rearranjamento de estrutura de dados;
+
+* Realocar memória
+
+* Estruturas de dados dinâmica:
+
+![Buscando elemento em matriz](imagens/BuscandoElementoMatrizPseudocodigo.png)
+
+* Busca binária
+
+![Busca binária](imagens/BuscandoElemento_buscabinaria.png)
+
+
