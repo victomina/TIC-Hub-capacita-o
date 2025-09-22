@@ -10,4 +10,4 @@
 
 - Vetores e matrizes
 
-
+![Vetores e matrizes em estruturas de dados](imagens/vetores%20e%20matrizes.png)
