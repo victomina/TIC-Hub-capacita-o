@@ -38,6 +38,8 @@ Maneiras de resolver este problema:
 
 ## Capítulo 3: Listas, pilhas e filas
 
+### Lista
+
 > A Lista pode ser representada como um vetor ou umas lista de elementos sequenciados
 
 > A lista é uma estrutura de dados homogênea ou heterogêna
@@ -80,3 +82,17 @@ public class Estoque{
     }
 }
 ```
+
+- Gerenciamentos de tarefas em Java : Linked Lists
+
+![Gerenciamento de tarefas em Java](imagens/Gerenciamento%20de%20tarefas%20JAva.png)
+
+### Pilha
+
+As pilhas podem ser comparadas com tarefas utilizadas no dia dia.
+
+![Pilhas no dia a dia](imagens/Pilha%20no%20mundo%20real.png)
+
+- Operações com Pilha: função PUSH
+
+![Funcao Push](imagens/Pilha_FuncaoPush.png)
